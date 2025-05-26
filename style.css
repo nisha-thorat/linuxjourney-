@@ -111,6 +111,7 @@
     font-family: sans-serif;
     display: flex;
     justify-self: center; 
+      text-align:center;
   }
   .grass-child img{
     border-radius: 50%;
